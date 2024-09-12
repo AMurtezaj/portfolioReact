@@ -5,11 +5,11 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hello, I'm Altin Murtezaj</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack Developer</span>{" "}
+            <span className="hero--section-title--color">Software Engineer</span>{" "}
             
           </h1>
           <p className="hero--section-description">
-            From Skenderaj,Kosovo
+            From Pristina,Kosovo
           </p>
 
         </div>

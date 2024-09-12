@@ -3,8 +3,8 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Food Delivery System",
+      "description": "A comprehensive Food Delivery System built with .NET and TypeScript, featuring a centralized restaurant management platform, an intuitive React-based customer interface, real-time order tracking via Google Maps API, and a scalable microservice architecture using RabbitMQ for seamless communication.",
       "link": "View In Github"
     },
     {

@@ -4,6 +4,7 @@ export default function AboutMe() {
       <div className="about--section--img">
         <img src="./img/about-me.JPG" alt="About Me" />
       </div>
+      
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
           <p className="section--title">About</p>

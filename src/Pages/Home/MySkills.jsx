@@ -24,13 +24,7 @@ export default function MySkills() {
       description: `Skilled in creating intuitive and user-friendly interfaces by applying principles of UI/UX design. Proficient in wireframing, prototyping, and creating design mockups to ensure seamless user interactions and engagement. 
       Able to conduct user research and usability testing to gather feedback and iterate on designs for optimal user experience. Familiar with design tools like Adobe XD, Sketch, and Figma.`
     },
-    {
-      id: "4",
-      src: "./img/feather-pen-1.png",
-      title: "Webflow Development",
-      description: `Experienced in developing websites and web applications using Webflow, a no-code/low-code platform. Proficient in leveraging Webflow's visual development tools to create responsive and dynamic web projects efficiently. 
-      Skilled in customizing and extending Webflow's capabilities using custom code and integrations. Familiar with web standards and best practices for SEO, accessibility, and performance optimization.`
-    }
+    
   ];
 
   return (
