@@ -131,7 +131,7 @@ export default function MyPortfolio() {
         </div>
         <div className="portfolio--section--card">
           <div className="portfolio--section--img">
-            <img src="./img/nancys.png" alt="App Dashboard" />
+            <img src="./img/Nancys.png" alt="App Dashboard" />
           </div>
           <div className="portfolio--section--card--content">
             <div>
